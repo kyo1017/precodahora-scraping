@@ -3,8 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 proxies={
-    "http": "http://diabrpjg-rotate:33fmskd4y0vn@p.webshare.io:80/",
-    "https": "http://diabrpjg-rotate:33fmskd4y0vn@p.webshare.io:80/"
+    # Your proxies
 }
 
 keyword = input('\nKeyword: ')
